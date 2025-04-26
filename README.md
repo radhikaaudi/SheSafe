@@ -3,6 +3,7 @@ Women Safety App – SOS Alerts and Safe Route Detection
 A mobile application focused on enhancing women's safety during travel by offering real-time SOS alerts and safe route navigation based on historical crime data and AI-powered clustering.
 
 📱 Features
+
 Emergency SOS Alert:
 Instantly sends a distress message and live location to pre-selected emergency contacts with a single tap.
 
@@ -16,6 +17,7 @@ User-Friendly Interface:
 Simple, intuitive UI for quick access during distress without confusion.
 
 🧠 Motivation
+
 Despite the presence of multiple women safety apps, most focus only on emergency alerts without preventive solutions.
 This app not only enables quick emergency communication but also actively helps avoid danger by suggesting safer travel routes using real crime data.
 
@@ -40,6 +42,7 @@ Maps & Location Services: Google Maps API, Geolocation API
 Machine Learning: K-Means Clustering (for danger zone detection)
 
 ⚙️ How It Works
+
 User Registration and Login through Firebase.
 
 Save Emergency Contacts inside the app.
@@ -51,6 +54,7 @@ Suggest Safe Route based on current location and danger zones.
 Trigger SOS Alert during emergency with a single tap, sharing live location with contacts.
 
 📈 Future Enhancements
+
 Crowd-sourced unsafe location reporting.
 
 Real-time crime updates from public APIs.
